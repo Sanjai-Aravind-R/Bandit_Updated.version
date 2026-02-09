@@ -21,6 +21,7 @@ By specifying the username, host address, and the custom port, an SSH request is
 This stage reinforces the idea that security tools are not always graphical. Many real-world environments rely heavily on terminals, and understanding how to navigate them is a key skill in cybersecurity and system administration._
 <img width="936" height="231" alt="lvl0_2" src="https://github.com/user-attachments/assets/a83e096e-f554-4994-bb99-0a2b420bef64" />
 # Step-3
+---
 _After issuing the SSH command, the server responds with authentication prompts and a welcome banner. This confirms that the connection attempt was successful.
 
 Authentication Process:
