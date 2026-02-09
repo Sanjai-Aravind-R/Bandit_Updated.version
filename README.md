@@ -5,5 +5,5 @@ __My not first GitHub project.__
 -
 -_Step by step approach to solve the challenge._
 -
--_Last but not least, understanding the basics to enter "CYBER WORLD"._ 
+-_Understanding the protocols to enter "CYBER WORLD"._ 
 -
