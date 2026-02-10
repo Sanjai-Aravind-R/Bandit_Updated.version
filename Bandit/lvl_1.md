@@ -19,6 +19,7 @@ In this challenge, the goal is to find the password for **Level 1**, which is st
 - Password: `bandit0`
 - Password file name: `readme`
 - File location: Home directory
+- <img width="1617" height="565" alt="lvl1_1" src="https://github.com/user-attachments/assets/18a0912f-ec0d-4c4b-9559-25b5c2d9c6e5" />
 
 ---
 
@@ -32,11 +33,14 @@ Check the contents of the home directory to identify available files.
 
 ### Step 3: Read the Password File
 Open the `readme` file to reveal the password for the next level.
+-<img width="951" height="333" alt="lvl1_2" src="https://github.com/user-attachments/assets/30855c99-bd14-4059-a1f7-41a1df7d4c9e" />
+
 
 ### Step 4: Log in to Bandit Level 1
 Use the extracted password to log in as `bandit1` on the same host and port.
-
+<img width="905" height="888" alt="lvl1_3" src="https://github.com/user-attachments/assets/b8fa0812-4cdb-4865-8357-50db9452354d" />
 ---
+
 
 ## Result
 - Successfully retrieved the password for Level 1
@@ -50,15 +54,3 @@ Use the extracted password to log in as `bandit1` on the same host and port.
 - Navigating directories using basic Linux commands
 - Reading files from the terminal
 - Understanding how credentials are passed between levels
-
----
-
-## Notes
-- Always save passwords locally
-- Bandit levels do not store progress automatically
-- These basic skills are used repeatedly in higher levels
-
----
-
-## Status
-✅ Level 0 → Level 1 completed
